@@ -1,0 +1,11 @@
+Performance Calculations:
+Range: 2988.16 km
+Endurance: 19.92 hr
+Total Weight: 5690 kg
+Center of Gravity Position: 2.98 m
+Lift: 183750 N
+Drag: 2450 N
+Weight: 49050 N
+Acceleration: -9.1 m/s^2
+Velocity: -41.0 m/s
+Distance: -410.0 m
